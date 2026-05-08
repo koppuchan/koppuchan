@@ -3,7 +3,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -27,7 +27,7 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
 - オープンソースが好き
 - 個人開発・スタートアップ開発が好き
